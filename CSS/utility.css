@@ -19,7 +19,7 @@ h1.title {
 }
 
 .form-container {
-    background: url('/images/pattern-bg.png') no-repeat 100% 100% / cover;
+    background: url('images/pattern-bg.png') no-repeat 100% 100% / cover;
     text-align: center;
     padding: 20px;
     min-height: 200px;
